@@ -13,6 +13,12 @@
 - `*Flask*`
 - `*SQLite*`
 
+`*## 💡 My Soft Skills:*`
+- '*Time Management*'
+- '*Adaptility*'
+- '*Leadership*'
+- '*Organizational Skills*'
+
 `*## 📌 My Projects:*`
 
 - `*Flask Weather API*`
